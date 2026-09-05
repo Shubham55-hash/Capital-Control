@@ -1,0 +1,10 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+streamlit>=1.32
+plotly>=5.18
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.4
+cvxpy>=1.4
+pytest>=8.0
